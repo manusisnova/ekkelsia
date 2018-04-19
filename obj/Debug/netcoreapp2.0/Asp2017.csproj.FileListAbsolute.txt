@@ -1,0 +1,10 @@
+/Users/macbookpro/Source/angular2-universal/bin/Debug/netcoreapp2.0/Asp2017.deps.json
+/Users/macbookpro/Source/angular2-universal/bin/Debug/netcoreapp2.0/Asp2017.runtimeconfig.json
+/Users/macbookpro/Source/angular2-universal/bin/Debug/netcoreapp2.0/Asp2017.runtimeconfig.dev.json
+/Users/macbookpro/Source/angular2-universal/bin/Debug/netcoreapp2.0/Asp2017.dll
+/Users/macbookpro/Source/angular2-universal/bin/Debug/netcoreapp2.0/Asp2017.pdb
+/Users/macbookpro/Source/angular2-universal/obj/Debug/netcoreapp2.0/Asp2017.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Source/angular2-universal/obj/Debug/netcoreapp2.0/Asp2017.AssemblyInfoInputs.cache
+/Users/macbookpro/Source/angular2-universal/obj/Debug/netcoreapp2.0/Asp2017.AssemblyInfo.cs
+/Users/macbookpro/Source/angular2-universal/obj/Debug/netcoreapp2.0/Asp2017.dll
+/Users/macbookpro/Source/angular2-universal/obj/Debug/netcoreapp2.0/Asp2017.pdb
